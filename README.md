@@ -1,6 +1,4 @@
-# De onde vem a resposta?
-
-**Arquitetura da informação para produtos com IA**
+# Arquitetura da Informação para Produtos com IA
 
 Yago Henrique Andrade Almeida
 

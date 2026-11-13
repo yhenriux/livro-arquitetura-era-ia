@@ -1,10 +1,6 @@
-# De onde vem a resposta?
-
-**Arquitetura da informação para produtos com IA**
+# Arquitetura da Informação para Produtos com IA
 
 Proposta editorial para a Casa do Código · Yago Henrique Andrade Almeida · novembro de 2026
-
-Título e subtítulo provisórios
 
 ## Panorama
 
@@ -58,7 +54,7 @@ O primeiro capítulo apresenta o caso da Biblioteca Ipê, uma ficha de fonte e q
 
 ## Livros semelhantes e posição no catálogo
 
-- Em *Engenharia de IA do protótipo à produção*, Leonardo Pena percorre implementação, avaliação e operação de sistemas com LLMs, RAG e agentes. *De onde vem a resposta?* se concentra nas decisões sobre fontes, representação, recuperação e apresentação que design, conteúdo e engenharia precisam tomar em conjunto. [Casa do Código](https://www.casadocodigo.com.br/products/livro-engenharia-ia)
+- Em *Engenharia de IA do protótipo à produção*, Leonardo Pena percorre implementação, avaliação e operação de sistemas com LLMs, RAG e agentes. *Arquitetura da Informação para Produtos com IA* se concentra nas decisões sobre fontes, representação, recuperação e apresentação que design, conteúdo e engenharia precisam tomar em conjunto. [Casa do Código](https://www.casadocodigo.com.br/products/livro-engenharia-ia)
 - Em *User Experience Design*, Rogério Pereira aborda arquitetura da informação, modelagem de conteúdo, interfaces e usabilidade no processo de criação de produtos digitais. Minha proposta acompanha essas decisões quando a interface consulta fontes e compõe respostas diferentes a cada pergunta. [Casa do Código](https://www.casadocodigo.com.br/products/livro-ux-produtos-digitais)
 - *Information Architecture: For the Web and Beyond*, de Louis Rosenfeld, Peter Morville e Jorge Arango, é uma referência para organização, navegação, busca e encontrabilidade. O caso da biblioteca aproxima esses fundamentos do trabalho de selecionar evidências, formular respostas e verificar se continuam válidas após mudanças nas fontes. [O’Reilly](https://www.oreilly.com/library/view/information-architecture-4th/9781491913529/)
 
